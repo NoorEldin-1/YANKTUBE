@@ -43,9 +43,6 @@ The project supports:
 <a href="https://fastapi.tiangolo.com/" target="_blank">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50"/>
 </a>
-<a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/84815428?s=200" alt="yt-dlp" width="50"/>
-</a>
 
 </div>
 
