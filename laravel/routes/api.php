@@ -6,7 +6,6 @@ use Illuminate\Support\Facades\Route;
 
 
 
-Route::get("/", fn() => response()->json(["message" => "Welcome to YANKTUBE API"]));
 
 
 Route::get('/youtube/details', [YoutubeController::class, 'getDetails']);

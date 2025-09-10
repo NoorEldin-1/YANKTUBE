@@ -16,7 +16,6 @@ const options = [
   { text: "quality 144p", value: "144p" },
 ];
 
-// 🎨 زر مشترك
 const GradientButton = ({ children, icon, onClick }) => (
   <Button
     leftSection={icon}

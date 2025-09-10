@@ -37,7 +37,7 @@ export const downloadSingleVideo = createAsyncThunk(
         try {
           decoded = decodeURIComponent(decoded);
         } catch {
-          // تجاهل خطأ فك التشفير واستخدام الاسم الأصلي
+          // ignore decode error, use raw
         }
         filename = decoded;
       } else {
